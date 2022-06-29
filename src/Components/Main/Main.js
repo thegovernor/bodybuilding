@@ -6,7 +6,7 @@ export default function Main(){
     return(<Containner className="bgimg">
         <Wrapper>
             <Div1>
-<Title>"<span>DOO SOMETHING</span> TODAY </Title>
+<Title>"<span>DO SOMETHING</span> TODAY </Title>
 <Title>THAT YOUR FUTURE SELF WILL </Title>
 <Title>THANK YOU FOR WITH OUR</Title>
 <Title>CUSTOMISED ONLINE <span>COACHING PACKAGES</span>" </Title>

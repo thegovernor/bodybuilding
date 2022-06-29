@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 
 export const Containner=styled.div`
-
+background-color: black;
 `
 export const Wrapper=styled.div`
 display: flex;
